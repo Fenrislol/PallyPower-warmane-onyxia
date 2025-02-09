@@ -89,7 +89,8 @@ PallyPower.ClassID = {
 	[6] = "HUNTER",
 	[7] = "MAGE",
 	[8] = "WARLOCK",
-	[9] = "PET"
+	[9] = "SHAMAN",
+	[10] = "PET"
 };
 	
 PallyPower.ClassToID = {
@@ -101,7 +102,8 @@ PallyPower.ClassToID = {
 	["HUNTER"] 		= 6,
 	["MAGE"] 		  = 7,
 	["WARLOCK"]		= 8,
-	["PET"]			  = 9
+	["SHAMAN"]		= 9,
+	["PET"]			  = 10
 };
 
 PallyPower.ClassIcons = {
@@ -113,7 +115,8 @@ PallyPower.ClassIcons = {
 	[6] = "Interface\\AddOns\\PallyPower\\Icons\\Hunter",
 	[7] = "Interface\\AddOns\\PallyPower\\Icons\\Mage",
 	[8] = "Interface\\AddOns\\PallyPower\\Icons\\Warlock",
-	[9] = "Interface\\AddOns\\PallyPower\\Icons\\Pet"
+	[9] = "Interface\\AddOns\\PallyPower\\Icons\\Shaman",
+	[10] = "Interface\\AddOns\\PallyPower\\Icons\\Pet"
 };
 
 PallyPower.BlessingIcons = {
